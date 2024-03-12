@@ -13,9 +13,9 @@
 
 <hr>
 
-´´´batch
+```batch
 taskkill /F /IM notepad.exe
-´´´
+```
 
 <hr>
 

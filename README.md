@@ -1,7 +1,7 @@
 # TaskManager
 
-`[$]` Este es un programa `simple` hecho en `BATCH para Windows`
-`[$]` Administra `tareas` del sistema y pueda `matar el proceso` indicado
+`[$]` Este es un programa `simple` hecho en `BATCH para Windows.`
+`[$]` Administra `tareas` del sistema y pueda `matar el proceso` indicado.
 
 <hr>
 
@@ -21,6 +21,9 @@ taskkill /F /IM notepad.exe
 
 <hr>
 
-contacto
+`[ 📬 ]` Contacta conmigo a través de `Discord` mandando una invitación a `qwfkr.`
 
-<hr>
+    qwfkr
+`[ 📬 ]` Si lo prefieres, mándame un correo a `3xpl017.contact@proton.me.`
+
+    3xpl017.contact@proton.m

@@ -13,6 +13,8 @@
 
 <hr>
 
+`[$]` Para matar procesos el `programa utiliza este comando:`
+
 ```batch
 taskkill /F /IM notepad.exe
 ```
